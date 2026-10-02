@@ -1,0 +1,7 @@
+streamlit>=1.32
+requests>=2.31
+pillow>=10.0
+numpy>=1.24
+opencv-python>=4.8
+streamlit-drawable-canvas>=0.9
+cairosvg>=2.7

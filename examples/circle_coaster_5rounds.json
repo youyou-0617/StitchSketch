@@ -1,0 +1,13 @@
+{
+  "title": "Circle coaster (5 rounds, palette test)",
+  "motif_type": "circle_coaster",
+  "background": "#ffffff",
+  "rounds": [
+    { "color": "#264653", "stitch": { "name": "center", "notes": "mr + 6 sc" } },
+    { "color": "#2A9D8F", "stitch": { "name": "inc", "repeat": 6 } },
+    { "color": "#E9C46A", "stitch": { "name": "1 sc, inc", "repeat": 6 } },
+    { "color": "#F4A261", "stitch": { "name": "2 sc, inc", "repeat": 6 } },
+    { "color": "#E76F51", "stitch": { "name": "3 sc, inc", "repeat": 6 } }
+  ]
+}
+

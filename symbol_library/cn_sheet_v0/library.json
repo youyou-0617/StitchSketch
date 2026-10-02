@@ -1,0 +1,1703 @@
+{
+  "version": "legend_sheet.v0",
+  "image_size": {
+    "w": 767,
+    "h": 982
+  },
+  "entries": [
+    {
+      "id": 0,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        8,
+        264,
+        60
+      ],
+      "text_bbox": [
+        268,
+        8,
+        399,
+        60
+      ],
+      "symbol_path": "sym_000.png",
+      "text_path": "text_000.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "变化的枣形针（长针）",
+      "stitch_std": null,
+      "notes_std": "decorative/puff-like; base likely dc"
+    },
+    {
+      "id": 1,
+      "name_ocr": null,
+      "symbol_bbox": [
+        9,
+        9,
+        61,
+        61
+      ],
+      "text_bbox": [
+        65,
+        9,
+        207,
+        61
+      ],
+      "symbol_path": "sym_001.png",
+      "text_path": "text_001.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "锁针",
+      "stitch_std": "ch"
+    },
+    {
+      "id": 2,
+      "name_ocr": null,
+      "symbol_bbox": [
+        405,
+        9,
+        457,
+        61
+      ],
+      "text_bbox": [
+        461,
+        9,
+        584,
+        61
+      ],
+      "symbol_path": "sym_002.png",
+      "text_path": "text_002.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "中长针 1针分3针",
+      "stitch_std": "t",
+      "op_std": {
+        "kind": "cluster",
+        "consumed": 1,
+        "produced": 3,
+        "base": "t"
+      }
+    },
+    {
+      "id": 3,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        9,
+        642,
+        60
+      ],
+      "text_bbox": [
+        646,
+        9,
+        761,
+        60
+      ],
+      "symbol_path": "sym_003.png",
+      "text_path": "text_003.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "中长针的反拉针",
+      "stitch_std": "t",
+      "notes_std": "back-post/front-post variant"
+    },
+    {
+      "id": 4,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        73,
+        265,
+        125
+      ],
+      "text_bbox": [
+        269,
+        73,
+        399,
+        125
+      ],
+      "symbol_path": "sym_004.png",
+      "text_path": "text_004.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "蓬松枣形针",
+      "stitch_std": null,
+      "notes_std": "decorative/puff-like"
+    },
+    {
+      "id": 5,
+      "name_ocr": null,
+      "symbol_bbox": [
+        405,
+        73,
+        457,
+        125
+      ],
+      "text_bbox": [
+        461,
+        73,
+        584,
+        125
+      ],
+      "symbol_path": "sym_005.png",
+      "text_path": "text_005.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针 1针分2针",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "cluster",
+        "consumed": 1,
+        "produced": 2,
+        "base": "f"
+      }
+    },
+    {
+      "id": 6,
+      "name_ocr": null,
+      "symbol_bbox": [
+        9,
+        74,
+        61,
+        126
+      ],
+      "text_bbox": [
+        65,
+        74,
+        207,
+        126
+      ],
+      "symbol_path": "sym_006.png",
+      "text_path": "text_006.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "引拔针",
+      "stitch_std": "sl st"
+    },
+    {
+      "id": 7,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        74,
+        642,
+        125
+      ],
+      "text_bbox": [
+        646,
+        74,
+        761,
+        125
+      ],
+      "symbol_path": "sym_007.png",
+      "text_path": "text_007.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针的正拉针",
+      "stitch_std": "f",
+      "notes_std": "front-post/back-post variant"
+    },
+    {
+      "id": 8,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        138,
+        264,
+        190
+      ],
+      "text_bbox": [
+        268,
+        138,
+        399,
+        190
+      ],
+      "symbol_path": "sym_008.png",
+      "text_path": "text_008.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "中长针 5针的爆米花针",
+      "stitch_std": "t",
+      "op_std": {
+        "kind": "popcorn",
+        "count": 5,
+        "base": "t"
+      }
+    },
+    {
+      "id": 9,
+      "name_ocr": null,
+      "symbol_bbox": [
+        405,
+        138,
+        457,
+        190
+      ],
+      "text_bbox": [
+        461,
+        138,
+        584,
+        190
+      ],
+      "symbol_path": "sym_009.png",
+      "text_path": "text_009.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针 1针分3针",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "cluster",
+        "consumed": 1,
+        "produced": 3,
+        "base": "f"
+      }
+    },
+    {
+      "id": 10,
+      "name_ocr": "状仙的类执杀",
+      "symbol_bbox": [
+        590,
+        138,
+        642,
+        190
+      ],
+      "text_bbox": [
+        646,
+        138,
+        761,
+        190
+      ],
+      "symbol_path": "sym_010.png",
+      "text_path": "text_010.png",
+      "name_ocr_raw": "状仙的类执杀",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针的反拉针",
+      "stitch_std": "f",
+      "notes_std": "post stitch variant"
+    },
+    {
+      "id": 11,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        202,
+        264,
+        254
+      ],
+      "text_bbox": [
+        268,
+        202,
+        399,
+        254
+      ],
+      "symbol_path": "sym_011.png",
+      "text_path": "text_011.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针 5 针的爆米花针",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "popcorn",
+        "count": 5,
+        "base": "f"
+      }
+    },
+    {
+      "id": 12,
+      "name_ocr": null,
+      "symbol_bbox": [
+        9,
+        203,
+        61,
+        254
+      ],
+      "text_bbox": [
+        65,
+        203,
+        207,
+        254
+      ],
+      "symbol_path": "sym_012.png",
+      "text_path": "text_012.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "棱针 条针",
+      "stitch_std": null,
+      "notes_std": "rib/relief-like texture stitch"
+    },
+    {
+      "id": 13,
+      "name_ocr": null,
+      "symbol_bbox": [
+        405,
+        203,
+        457,
+        255
+      ],
+      "text_bbox": [
+        461,
+        203,
+        584,
+        255
+      ],
+      "symbol_path": "sym_013.png",
+      "text_path": "text_013.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "松针（长针 5 针）",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "shell",
+        "count": 5,
+        "base": "f"
+      }
+    },
+    {
+      "id": 14,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        203,
+        641,
+        255
+      ],
+      "text_bbox": [
+        645,
+        203,
+        761,
+        255
+      ],
+      "symbol_path": "sym_014.png",
+      "text_path": "text_014.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针十字针",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "cross",
+        "base": "f"
+      }
+    },
+    {
+      "id": 15,
+      "name_ocr": null,
+      "symbol_bbox": [
+        9,
+        265,
+        61,
+        317
+      ],
+      "text_bbox": [
+        65,
+        265,
+        207,
+        317
+      ],
+      "symbol_path": "sym_015.png",
+      "text_path": "text_015.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "拧扭的短针",
+      "stitch_std": "x",
+      "notes_std": "twisted sc"
+    },
+    {
+      "id": 16,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        267,
+        265,
+        319
+      ],
+      "text_bbox": [
+        269,
+        267,
+        584,
+        319
+      ],
+      "symbol_path": "sym_016.png",
+      "text_path": "text_016.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长长针 6 针的爆米花针、贝壳针",
+      "stitch_std": "e",
+      "op_std": {
+        "kind": "popcorn_or_shell",
+        "count": 6,
+        "base": "e"
+      }
+    },
+    {
+      "id": 17,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        268,
+        642,
+        319
+      ],
+      "text_bbox": [
+        646,
+        268,
+        761,
+        319
+      ],
+      "symbol_path": "sym_017.png",
+      "text_path": "text_017.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长长针十字针",
+      "stitch_std": "e",
+      "op_std": {
+        "kind": "cross",
+        "base": "e"
+      }
+    },
+    {
+      "id": 18,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        332,
+        265,
+        384
+      ],
+      "text_bbox": [
+        269,
+        332,
+        399,
+        384
+      ],
+      "symbol_path": "sym_018.png",
+      "text_path": "text_018.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "中长针 1 针交叉",
+      "stitch_std": "t",
+      "op_std": {
+        "kind": "cross",
+        "base": "t"
+      }
+    },
+    {
+      "id": 19,
+      "name_ocr": null,
+      "symbol_bbox": [
+        405,
+        332,
+        457,
+        384
+      ],
+      "text_bbox": [
+        461,
+        332,
+        584,
+        384
+      ],
+      "symbol_path": "sym_019.png",
+      "text_path": "text_019.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "短针 2 针并 1 针",
+      "stitch_std": "a",
+      "op_std": {
+        "kind": "dec",
+        "consumed": 2,
+        "produced": 1,
+        "base": "x"
+      }
+    },
+    {
+      "id": 20,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        332,
+        642,
+        384
+      ],
+      "text_bbox": [
+        646,
+        332,
+        761,
+        384
+      ],
+      "symbol_path": "sym_020.png",
+      "text_path": "text_020.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "Y字针（长针）",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "y",
+        "base": "f"
+      }
+    },
+    {
+      "id": 21,
+      "name_ocr": null,
+      "symbol_bbox": [
+        9,
+        397,
+        61,
+        449
+      ],
+      "text_bbox": [
+        65,
+        397,
+        399,
+        449
+      ],
+      "symbol_path": "sym_021.png",
+      "text_path": "text_021.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "中长针 长针1针交叉",
+      "stitch_std": null,
+      "op_std": {
+        "kind": "cross_mix",
+        "bases": [
+          "t",
+          "f"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "name_ocr": null,
+      "symbol_bbox": [
+        405,
+        397,
+        457,
+        449
+      ],
+      "text_bbox": [
+        461,
+        397,
+        584,
+        449
+      ],
+      "symbol_path": "sym_022.png",
+      "text_path": "text_022.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "短针3针并1针",
+      "stitch_std": "a",
+      "op_std": {
+        "kind": "dec",
+        "consumed": 3,
+        "produced": 1,
+        "base": "x"
+      }
+    },
+    {
+      "id": 23,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        397,
+        642,
+        449
+      ],
+      "text_bbox": [
+        646,
+        397,
+        761,
+        449
+      ],
+      "symbol_path": "sym_023.png",
+      "text_path": "text_023.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "反Y字针（长针）",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "y_rev",
+        "base": "f"
+      }
+    },
+    {
+      "id": 24,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        461,
+        265,
+        513
+      ],
+      "text_bbox": [
+        269,
+        461,
+        399,
+        513
+      ],
+      "symbol_path": "sym_024.png",
+      "text_path": "text_024.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长长针1针交叉",
+      "stitch_std": "e",
+      "op_std": {
+        "kind": "cross",
+        "base": "e"
+      }
+    },
+    {
+      "id": 25,
+      "name_ocr": null,
+      "symbol_bbox": [
+        9,
+        462,
+        61,
+        514
+      ],
+      "text_bbox": [
+        65,
+        462,
+        207,
+        514
+      ],
+      "symbol_path": "sym_025.png",
+      "text_path": "text_025.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针",
+      "stitch_std": "f"
+    },
+    {
+      "id": 26,
+      "name_ocr": "中全让2和逢4村",
+      "symbol_bbox": [
+        405,
+        462,
+        457,
+        513
+      ],
+      "text_bbox": [
+        461,
+        462,
+        584,
+        513
+      ],
+      "symbol_path": "sym_026.png",
+      "text_path": "text_026.png",
+      "name_ocr_raw": "中全让2和逢4村",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "中长针2针并1针",
+      "stitch_std": "a",
+      "op_std": {
+        "kind": "dec",
+        "consumed": 2,
+        "produced": 1,
+        "base": "t"
+      }
+    },
+    {
+      "id": 27,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        462,
+        641,
+        513
+      ],
+      "text_bbox": [
+        645,
+        462,
+        761,
+        513
+      ],
+      "symbol_path": "sym_027.png",
+      "text_path": "text_027.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "短针的环形针",
+      "stitch_std": "x",
+      "op_std": {
+        "kind": "ring",
+        "base": "x"
+      }
+    },
+    {
+      "id": 28,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        526,
+        265,
+        578
+      ],
+      "text_bbox": [
+        269,
+        526,
+        399,
+        578
+      ],
+      "symbol_path": "sym_028.png",
+      "text_path": "text_028.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针1针的左上交叉",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "cross_left_up",
+        "base": "f"
+      }
+    },
+    {
+      "id": 29,
+      "name_ocr": "中发加多于并不",
+      "symbol_bbox": [
+        405,
+        526,
+        457,
+        578
+      ],
+      "text_bbox": [
+        461,
+        526,
+        584,
+        578
+      ],
+      "symbol_path": "sym_029.png",
+      "text_path": "text_029.png",
+      "name_ocr_raw": "中发加多于并不",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "中长针3针并1针",
+      "stitch_std": "a",
+      "op_std": {
+        "kind": "dec",
+        "consumed": 3,
+        "produced": 1,
+        "base": "t"
+      }
+    },
+    {
+      "id": 30,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        526,
+        642,
+        578
+      ],
+      "text_bbox": [
+        646,
+        526,
+        761,
+        578
+      ],
+      "symbol_path": "sym_030.png",
+      "text_path": "text_030.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针的环形针",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "ring",
+        "base": "f"
+      }
+    },
+    {
+      "id": 31,
+      "name_ocr": null,
+      "symbol_bbox": [
+        10,
+        527,
+        61,
+        579
+      ],
+      "text_bbox": [
+        65,
+        527,
+        207,
+        579
+      ],
+      "symbol_path": "sym_031.png",
+      "text_path": "text_031.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长长针",
+      "stitch_std": "e"
+    },
+    {
+      "id": 32,
+      "name_ocr": null,
+      "symbol_bbox": [
+        9,
+        591,
+        61,
+        643
+      ],
+      "text_bbox": [
+        65,
+        591,
+        207,
+        643
+      ],
+      "symbol_path": "sym_032.png",
+      "text_path": "text_032.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "3卷长针",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "wrap",
+        "wraps": 3,
+        "base": "f"
+      }
+    },
+    {
+      "id": 33,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        591,
+        265,
+        642
+      ],
+      "text_bbox": [
+        269,
+        591,
+        399,
+        642
+      ],
+      "symbol_path": "sym_033.png",
+      "text_path": "text_033.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针1针的右上交叉",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "cross_right_up",
+        "base": "f"
+      }
+    },
+    {
+      "id": 34,
+      "name_ocr": null,
+      "symbol_bbox": [
+        405,
+        591,
+        457,
+        643
+      ],
+      "text_bbox": [
+        461,
+        591,
+        584,
+        643
+      ],
+      "symbol_path": "sym_034.png",
+      "text_path": "text_034.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针2针并1针",
+      "stitch_std": "a",
+      "op_std": {
+        "kind": "dec",
+        "consumed": 2,
+        "produced": 1,
+        "base": "f"
+      }
+    },
+    {
+      "id": 35,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        591,
+        641,
+        643
+      ],
+      "text_bbox": [
+        645,
+        591,
+        761,
+        643
+      ],
+      "symbol_path": "sym_035.png",
+      "text_path": "text_035.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "小链针（锁针3针）",
+      "stitch_std": "ch",
+      "op_std": {
+        "kind": "small_chain",
+        "count": 3
+      }
+    },
+    {
+      "id": 36,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        655,
+        265,
+        707
+      ],
+      "text_bbox": [
+        269,
+        655,
+        399,
+        707
+      ],
+      "symbol_path": "sym_036.png",
+      "text_path": "text_036.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针1针左上·3针交叉",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "cross_left_up_n",
+        "count": 3,
+        "base": "f"
+      }
+    },
+    {
+      "id": 37,
+      "name_ocr": "放 下",
+      "symbol_bbox": [
+        9,
+        656,
+        61,
+        708
+      ],
+      "text_bbox": [
+        65,
+        656,
+        207,
+        708
+      ],
+      "symbol_path": "sym_037.png",
+      "text_path": "text_037.png",
+      "name_ocr_raw": "放 下 。",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "4卷长针",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "wrap",
+        "wraps": 4,
+        "base": "f"
+      }
+    },
+    {
+      "id": 38,
+      "name_ocr": null,
+      "symbol_bbox": [
+        405,
+        656,
+        457,
+        707
+      ],
+      "text_bbox": [
+        461,
+        656,
+        584,
+        707
+      ],
+      "symbol_path": "sym_038.png",
+      "text_path": "text_038.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针3针并1针",
+      "stitch_std": "a",
+      "op_std": {
+        "kind": "dec",
+        "consumed": 3,
+        "produced": 1,
+        "base": "f"
+      }
+    },
+    {
+      "id": 39,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        656,
+        642,
+        708
+      ],
+      "text_bbox": [
+        646,
+        656,
+        761,
+        708
+      ],
+      "symbol_path": "sym_039.png",
+      "text_path": "text_039.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "变化的小链针（锁针3针）",
+      "stitch_std": "ch",
+      "op_std": {
+        "kind": "small_chain_var",
+        "count": 3
+      }
+    },
+    {
+      "id": 40,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        720,
+        265,
+        772
+      ],
+      "text_bbox": [
+        269,
+        720,
+        399,
+        772
+      ],
+      "symbol_path": "sym_040.png",
+      "text_path": "text_040.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针1针右上·3针交叉",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "cross_right_up_n",
+        "count": 3,
+        "base": "f"
+      }
+    },
+    {
+      "id": 41,
+      "name_ocr": "宁括3时的吕和外",
+      "symbol_bbox": [
+        9,
+        721,
+        61,
+        773
+      ],
+      "text_bbox": [
+        65,
+        721,
+        207,
+        773
+      ],
+      "symbol_path": "sym_041.png",
+      "text_path": "text_041.png",
+      "name_ocr_raw": "宁括3时的吕和外",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "中长针3针的枣形针",
+      "stitch_std": "t",
+      "op_std": {
+        "kind": "puff",
+        "count": 3,
+        "base": "t"
+      }
+    },
+    {
+      "id": 42,
+      "name_ocr": null,
+      "symbol_bbox": [
+        405,
+        721,
+        457,
+        772
+      ],
+      "text_bbox": [
+        461,
+        721,
+        584,
+        772
+      ],
+      "symbol_path": "sym_042.png",
+      "text_path": "text_042.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针4针并1针",
+      "stitch_std": "a",
+      "op_std": {
+        "kind": "dec",
+        "consumed": 4,
+        "produced": 1,
+        "base": "f"
+      }
+    },
+    {
+      "id": 43,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        721,
+        641,
+        772
+      ],
+      "text_bbox": [
+        645,
+        721,
+        761,
+        772
+      ],
+      "symbol_path": "sym_043.png",
+      "text_path": "text_043.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "七宝针",
+      "stitch_std": null,
+      "notes_std": "decorative"
+    },
+    {
+      "id": 44,
+      "name_ocr": null,
+      "symbol_bbox": [
+        9,
+        783,
+        61,
+        835
+      ],
+      "text_bbox": [
+        65,
+        783,
+        207,
+        835
+      ],
+      "symbol_path": "sym_044.png",
+      "text_path": "text_044.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针3针的枣形针",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "puff",
+        "count": 3,
+        "base": "f"
+      }
+    },
+    {
+      "id": 45,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        785,
+        265,
+        836
+      ],
+      "text_bbox": [
+        269,
+        785,
+        399,
+        836
+      ],
+      "symbol_path": "sym_045.png",
+      "text_path": "text_045.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "短针1针分2针",
+      "stitch_std": "x",
+      "op_std": {
+        "kind": "cluster",
+        "consumed": 1,
+        "produced": 2,
+        "base": "x"
+      }
+    },
+    {
+      "id": 46,
+      "name_ocr": null,
+      "symbol_bbox": [
+        405,
+        785,
+        457,
+        837
+      ],
+      "text_bbox": [
+        461,
+        785,
+        584,
+        837
+      ],
+      "symbol_path": "sym_046.png",
+      "text_path": "text_046.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "短针的正拉针",
+      "stitch_std": "x",
+      "notes_std": "post stitch variant"
+    },
+    {
+      "id": 47,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        785,
+        642,
+        837
+      ],
+      "text_bbox": [
+        646,
+        785,
+        761,
+        837
+      ],
+      "symbol_path": "sym_047.png",
+      "text_path": "text_047.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长针卷针",
+      "stitch_std": "f",
+      "op_std": {
+        "kind": "wrap",
+        "wraps": 1,
+        "base": "f"
+      }
+    },
+    {
+      "id": 48,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        849,
+        265,
+        901
+      ],
+      "text_bbox": [
+        269,
+        849,
+        399,
+        901
+      ],
+      "symbol_path": "sym_048.png",
+      "text_path": "text_048.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "短针1针分3针",
+      "stitch_std": "x",
+      "op_std": {
+        "kind": "cluster",
+        "consumed": 1,
+        "produced": 3,
+        "base": "x"
+      }
+    },
+    {
+      "id": 49,
+      "name_ocr": null,
+      "symbol_bbox": [
+        9,
+        850,
+        61,
+        902
+      ],
+      "text_bbox": [
+        65,
+        850,
+        207,
+        902
+      ],
+      "symbol_path": "sym_049.png",
+      "text_path": "text_049.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "长长针5针的枣形针",
+      "stitch_std": "e",
+      "op_std": {
+        "kind": "puff",
+        "count": 5,
+        "base": "e"
+      }
+    },
+    {
+      "id": 50,
+      "name_ocr": null,
+      "symbol_bbox": [
+        405,
+        850,
+        457,
+        901
+      ],
+      "text_bbox": [
+        461,
+        850,
+        584,
+        901
+      ],
+      "symbol_path": "sym_050.png",
+      "text_path": "text_050.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "短针的反拉针",
+      "stitch_std": "x",
+      "notes_std": "post stitch variant (reverse)"
+    },
+    {
+      "id": 51,
+      "name_ocr": null,
+      "symbol_bbox": [
+        590,
+        850,
+        642,
+        902
+      ],
+      "text_bbox": [
+        646,
+        850,
+        761,
+        902
+      ],
+      "symbol_path": "sym_051.png",
+      "text_path": "text_051.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "方格花样",
+      "stitch_std": null,
+      "notes_std": "pattern/motif"
+    },
+    {
+      "id": 52,
+      "name_ocr": null,
+      "symbol_bbox": [
+        213,
+        914,
+        265,
+        966
+      ],
+      "text_bbox": [
+        269,
+        914,
+        399,
+        966
+      ],
+      "symbol_path": "sym_052.png",
+      "text_path": "text_052.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "中长针 1 针分 2 针",
+      "stitch_std": "t",
+      "op_std": {
+        "kind": "cluster",
+        "consumed": 1,
+        "produced": 2,
+        "base": "t"
+      }
+    },
+    {
+      "id": 53,
+      "name_ocr": null,
+      "symbol_bbox": [
+        9,
+        915,
+        61,
+        966
+      ],
+      "text_bbox": [
+        65,
+        915,
+        207,
+        966
+      ],
+      "symbol_path": "sym_053.png",
+      "text_path": "text_053.png",
+      "name_ocr_raw": "",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": "",
+      "name_std": "变化的枣形针（中长针）",
+      "stitch_std": "t",
+      "op_std": {
+        "kind": "puff_var",
+        "base": "t"
+      }
+    },
+    {
+      "id": 54,
+      "name_ocr": "人",
+      "symbol_bbox": [
+        405,
+        915,
+        457,
+        966
+      ],
+      "text_bbox": [
+        461,
+        915,
+        761,
+        966
+      ],
+      "symbol_path": "sym_054.png",
+      "text_path": "text_054.png",
+      "name_ocr_raw": "人",
+      "stitch_suggest": null,
+      "name_ocr_raw_fallback": ""
+    }
+  ],
+  "notes": "name_ocr is best-effort; please review/correct manually.",
+  "ocr": {
+    "lang_primary": "chi_sim",
+    "lang_fallback": "eng",
+    "available_langs": [
+      "afr",
+      "amh",
+      "ara",
+      "asm",
+      "aze",
+      "aze_cyrl",
+      "bel",
+      "ben",
+      "bod",
+      "bos",
+      "bre",
+      "bul",
+      "cat",
+      "ceb",
+      "ces",
+      "chi_sim",
+      "chi_sim_vert",
+      "chi_tra",
+      "chi_tra_vert",
+      "chr",
+      "cos",
+      "cym",
+      "dan",
+      "deu",
+      "div",
+      "dzo",
+      "ell",
+      "eng",
+      "enm",
+      "epo",
+      "equ",
+      "est",
+      "eus",
+      "fao",
+      "fas",
+      "fil",
+      "fin",
+      "fra",
+      "frk",
+      "frm",
+      "fry",
+      "gla",
+      "gle",
+      "glg",
+      "grc",
+      "guj",
+      "hat",
+      "heb",
+      "hin",
+      "hrv",
+      "hun",
+      "hye",
+      "iku",
+      "ind",
+      "isl",
+      "ita",
+      "ita_old",
+      "jav",
+      "jpn",
+      "jpn_vert",
+      "kan",
+      "kat",
+      "kat_old",
+      "kaz",
+      "khm",
+      "kir",
+      "kmr",
+      "kor",
+      "kor_vert",
+      "lao",
+      "lat",
+      "lav",
+      "lit",
+      "ltz",
+      "mal",
+      "mar",
+      "mkd",
+      "mlt",
+      "mon",
+      "mri",
+      "msa",
+      "mya",
+      "nep",
+      "nld",
+      "nor",
+      "oci",
+      "ori",
+      "osd",
+      "pan",
+      "pol",
+      "por",
+      "pus",
+      "que",
+      "ron",
+      "rus",
+      "san",
+      "sin",
+      "slk",
+      "slv",
+      "snd",
+      "snum",
+      "spa",
+      "spa_old",
+      "sqi",
+      "srp",
+      "srp_latn",
+      "sun",
+      "swa",
+      "swe",
+      "syr",
+      "tam",
+      "tat",
+      "tel",
+      "tgk",
+      "tha",
+      "tir",
+      "ton",
+      "tur",
+      "uig",
+      "ukr",
+      "urd",
+      "uzb",
+      "uzb_cyrl",
+      "vie",
+      "yid",
+      "yor"
+    ],
+    "primary_lang_available": true,
+    "fallback_lang_available": true,
+    "notes": "name_ocr is best-effort; please review/correct manually."
+  },
+  "updated_entries": 55,
+  "manual_corrections": [
+    {
+      "at": "2026-05-07",
+      "source": "user",
+      "files": [
+        "text_000.png",
+        "text_001.png",
+        "text_002.png",
+        "text_003.png",
+        "text_004.png",
+        "text_005.png",
+        "text_006.png",
+        "text_007.png",
+        "text_008.png",
+        "text_009.png"
+      ]
+    },
+    {
+      "at": "2026-05-07",
+      "source": "user",
+      "files": [
+        "text_010.png",
+        "text_011.png",
+        "text_012.png",
+        "text_013.png",
+        "text_014.png",
+        "text_015.png",
+        "text_016.png",
+        "text_017.png",
+        "text_018.png",
+        "text_019.png"
+      ]
+    },
+    {
+      "at": "2026-05-07",
+      "source": "user",
+      "files": [
+        "text_020.png",
+        "text_021.png",
+        "text_022.png",
+        "text_023.png",
+        "text_024.png",
+        "text_025.png",
+        "text_026.png",
+        "text_027.png",
+        "text_028.png",
+        "text_029.png"
+      ]
+    },
+    {
+      "at": "2026-05-07",
+      "source": "user",
+      "files": [
+        "text_030.png",
+        "text_031.png",
+        "text_032.png",
+        "text_033.png",
+        "text_034.png",
+        "text_035.png",
+        "text_036.png",
+        "text_037.png",
+        "text_038.png",
+        "text_039.png"
+      ]
+    },
+    {
+      "at": "2026-05-07",
+      "source": "user",
+      "files": [
+        "text_040.png",
+        "text_041.png",
+        "text_042.png",
+        "text_043.png",
+        "text_044.png",
+        "text_045.png",
+        "text_046.png",
+        "text_047.png",
+        "text_048.png",
+        "text_049.png",
+        "text_050.png",
+        "text_051.png",
+        "text_052.png",
+        "text_053.png"
+      ]
+    }
+  ]
+}

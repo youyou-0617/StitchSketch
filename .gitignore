@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.DS_Store
+
+.venv/
+venv/
+env/
+
+.streamlit/secrets.toml
+
+saved_patterns/
+outputs/
+
+*.log

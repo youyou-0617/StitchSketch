@@ -1,0 +1,11 @@
+{
+  "title": "Circle coaster (3 rounds)",
+  "motif_type": "circle_coaster",
+  "background": "#ffffff",
+  "rounds": [
+    { "color": "#F4D35E", "stitch": { "name": "mr + 6 sc", "repeat": 6 } },
+    { "color": "#EE964B", "stitch": { "name": "inc", "repeat": 6 } },
+    { "color": "#F95738", "stitch": { "name": "1 sc, inc", "repeat": 6 } }
+  ]
+}
+

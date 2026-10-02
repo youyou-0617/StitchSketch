@@ -1,0 +1,3 @@
+x短针 t中长针 f长针 v加针 a减针
+12x in ring
+(v, 3f, ch2) x4

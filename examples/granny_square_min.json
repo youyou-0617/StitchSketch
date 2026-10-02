@@ -1,0 +1,12 @@
+{
+  "title": "Granny square (4 rounds)",
+  "motif_type": "granny_square",
+  "background": "#ffffff",
+  "rounds": [
+    { "color": "#0B1320", "stitch": { "name": "center ring", "notes": "ch4 join / mr" } },
+    { "color": "#1C2541", "stitch": { "name": "3 dc clusters", "repeat": 4, "notes": "corners" } },
+    { "color": "#3A506B", "stitch": { "name": "granny repeat", "repeat": 4 } },
+    { "color": "#5BC0BE", "stitch": { "name": "granny repeat", "repeat": 4 } }
+  ]
+}
+
